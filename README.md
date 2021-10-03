@@ -127,18 +127,18 @@ After implementing, testing, debugging and retesting the program numerous times,
 # Screenshot
 
 ## **Login**
-![image1](photo\pic1.png)
+![image1](photo/pic1.png)
 ## **Main Menu**
-![image2](photo\pic2.png)
+![image2](photo/pic2.png)
 ## **Create Record**
-![image3](photo\pic3.png)
+![image3](photo/pic3.png)
 ## **View Record**
-![image4](photo\pic4.png)
+![image4](photo/pic4.png)
 ## **Search Record**
-![image5](photo\pic5.png)
+![image5](photo/pic5.png)
 ## **Modify Record**
-![image6](photo\pic6.png)
+![image6](photo/pic6.png)
 ## **Delete Menu**
-![image7](photo\pic7.png)
+![image7](photo/pic7.png)
 ## **Delete Record**
-![image8](photo\pic8.png)
+![image8](photo/pic8.png)
